@@ -28,3 +28,25 @@ nav{
 .col-12{
   padding-bottom: 50px;
 }
+.image{
+  width: 600px;
+  margin: 70px 0;
+}
+.image img{
+  border: solid 5px;
+}
+.worker{
+  width: 300px;
+}
+article{
+  margin-left: 10px;
+}
+aside{
+  float: left;
+}
+aside p{
+  margin: 0;
+}
+.height{
+  margin-top: 20px;
+}

@@ -47,3 +47,13 @@ h1, h2, h3, h4, h5, h6, em, footer p{
 .fas.fa-chevron-down{
     font-size: 500%;
 }
+.card img{
+    height: 400px;
+}
+
+.employee img {
+    width: 100%;
+}
+#myA {
+    text-align: end;
+}
