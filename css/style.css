@@ -1,9 +1,52 @@
+*{
+  font-family: "Texturina", serif;
+}
 .grey{
     background-color: #353A40;
 }
 nav{
-  font-family: "Texturina", serif;
   font-optical-sizing: auto;
   font-weight: weight;
   font-style: normal;
+}
+.img{
+  background-image: url(../img/banner-buisnessman.jpg);
+  height: 711px;
+}
+.img div q:first-of-type{
+  font-size: 5em;
+  overflow-y: hidden;
+}
+
+.img div q:last-of-type{
+  font-size: 1.8em;
+}
+
+.fas.fa-chevron-down{
+  font-size: 500%;
+}
+.col-12{
+  padding-bottom: 50px;
+}
+.image{
+  width: 600px;
+  margin: 70px 0;
+}
+.image img{
+  border: solid 5px;
+}
+.worker{
+  width: 300px;
+}
+article{
+  margin-left: 10px;
+}
+aside{
+  float: left;
+}
+aside p{
+  margin: 0;
+}
+.height{
+  margin-top: 20px;
 }
